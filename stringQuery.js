@@ -1,6 +1,7 @@
 let stringQuery = `
 capitalize
-split string
+concatenate
+split
 trim
 trim left
 trim right
