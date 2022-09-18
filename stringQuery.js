@@ -1,4 +1,4 @@
-let stringSetQuery = `
+let howTo_StringIn_ = `
 capitalize
 concatenate
 split
